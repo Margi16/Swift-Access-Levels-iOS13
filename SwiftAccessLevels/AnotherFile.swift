@@ -13,9 +13,9 @@ class AnotherClassInAnotherFile {
     init() {
         
         //Step 8. Try to print aFilePrivateProperty Here
-        
+//        print("\(aFilePrivateProperty) printed from methodA in AClass")
         //Step 10. Try to print anInternalProperty Here
-        
+//        print("\(anInternalProperty) printed from methodA in AClass")
     }
     
 }
